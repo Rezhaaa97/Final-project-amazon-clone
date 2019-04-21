@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="login-microservice:war">
+    <output-path>$PROJECT_DIR$/login-microservice/target</output-path>
+    <root id="archive" name="login-microservice-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="login-microservice:war exploded" />
+    </root>
+  </artifact>
+</component>

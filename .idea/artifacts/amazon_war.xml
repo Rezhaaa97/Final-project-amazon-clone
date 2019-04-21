@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="amazon:war">
+    <output-path>$PROJECT_DIR$/amazon-restApi/target</output-path>
+    <root id="archive" name="amazon-0.0.1.war">
+      <element id="artifact" artifact-name="amazon:war exploded" />
+    </root>
+  </artifact>
+</component>

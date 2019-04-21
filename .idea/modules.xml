@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/amazon-restApi/amazon.iml" filepath="$PROJECT_DIR$/amazon-restApi/amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend-client-angular/frontend-client-angular.iml" filepath="$PROJECT_DIR$/frontend-client-angular/frontend-client-angular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login-microservice/login-microservice.iml" filepath="$PROJECT_DIR$/login-microservice/login-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/productRestAPI/product.iml" filepath="$PROJECT_DIR$/productRestAPI/product.iml" />
+    </modules>
+  </component>
+</project>
