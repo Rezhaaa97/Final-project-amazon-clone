@@ -50,9 +50,10 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
     @Override
     protected void configure(HttpSecurity http) throws Exception {
+        http.headers().frameOptions().disable();
         http.cors().and()
                 .authorizeRequests()
-                .antMatchers("/", "/signup", "/h2-console/**").permitAll()
+                .antMatchers("/","/updateUser/**", "/signup","/overviewOfUsers","/changePW/**", "/h2-console/**").permitAll()
                 .antMatchers(HttpMethod.POST, "/signup").permitAll()
                 .antMatchers(HttpMethod.OPTIONS, "/**").permitAll()
                 .anyRequest().authenticated()

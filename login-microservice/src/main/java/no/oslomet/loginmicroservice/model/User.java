@@ -21,12 +21,19 @@ public class User {
     private String email;
     private String password;
     private String roles;
+    private String address;
+    private long postalCode;
+    private String postPlace;
 
-    public User(String firstName, String lastName, String email, String password) {
+    public User(String firstName, String lastName, String email, String password, String roles, String address, long postalCode, String postPlace) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.email = email;
         this.password = password;
+        this.roles = roles;
+        this.address = address;
+        this.postalCode= postalCode;
+        this.postPlace = postPlace;
     }
 }
 
