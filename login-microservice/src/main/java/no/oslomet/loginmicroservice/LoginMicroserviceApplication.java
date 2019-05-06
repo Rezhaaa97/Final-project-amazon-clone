@@ -21,15 +21,8 @@ public class LoginMicroserviceApplication implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        User u1 = new User("Rejwan","Raouf","rejwan@test.no","test","Merchant","Vevelstadåsen",1405,"Oslo");
         User admin1 = new User("Sensor","Sensorsen","sensor@test.no","test","Admin","Vevelstadåsen",1405,"Langhus");
-
-
-        String hashPassword = bCryptPasswordEncoder.encode(u1.getPassword());
-        u1.setPassword(hashPassword);
-
         admin1.setPassword(bCryptPasswordEncoder.encode(admin1.getPassword()));
-        userRepository.save(u1);
         userRepository.save(admin1);
 
 

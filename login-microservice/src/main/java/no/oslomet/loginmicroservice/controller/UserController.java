@@ -53,7 +53,6 @@ public class UserController {
       String hashPassword = bCryptPasswordEncoder.encode(user.getPassword());
         String noopPass = "{noop}"+user.getPassword();
         user.setPassword(hashPassword);
-        //user.setRoles("USER");
         userRepository.save(user);
         return user;
     }

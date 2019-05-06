@@ -3,14 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="997a147f-e2a0-4e4b-bd68-7c0de603cbde" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend-client-angular" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-client-angular" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend-client-angular/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-client-angular/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend-client-angular/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-client-angular/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/controller/RestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/controller/RestController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend-client-angular/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-client-angular/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend-client-angular/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-client-angular/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend-client-angular/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-client-angular/src/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesLALALLLA.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/LoginMicroserviceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/LoginMicroserviceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nullLALALLLA.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/productRestAPI" beforeDir="false" afterPath="$PROJECT_DIR$/productRestAPI" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/productRestAPI/src/main/java/no/oslomet/product/controller/RestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/productRestAPI/src/main/java/no/oslomet/product/controller/RestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploadsBilde4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploadsBilde6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploadsSkjermbilde 2019-03-26 kl. 18.45.32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploadsSkjermbilde 2019-04-14 kl. 13.44.56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.diruploads" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/amazon-restApi/target/" />
     <ignored path="$PROJECT_DIR$/productRestAPI/target/" />
@@ -35,15 +42,18 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="Image" value="14" />
-          <entry key="JAVA" value="86" />
-          <entry key="Properties" value="15" />
+          <entry key="Image" value="15" />
+          <entry key="JAVA" value="104" />
+          <entry key="Markdown" value="1" />
+          <entry key="Properties" value="18" />
           <entry key="UNKNOWN" value="1" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6727" />
+          <entry key="JAVA" value="6739" />
+          <entry key="Markdown" value="4" />
           <entry key="PLAIN_TEXT" value="226" />
           <entry key="Properties" value="82" />
         </counts>
@@ -58,11 +68,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/controller/RestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/LoginMicroserviceApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="255">
+              <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#808#809#0" expanded="true" />
               </folding>
             </state>
@@ -70,10 +93,59 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/amazon-restApi/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login-microservice/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/productRestAPI/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/productRestAPI/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readMe.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="12" selection-start-column="12" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="82" column="41" lean-forward="true" selection-start-line="82" selection-start-column="41" selection-end-line="82" selection-end-column="41" />
+            <state relative-caret-position="245">
+              <caret line="62" column="44" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,72 +158,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/controller/RestController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="71" column="57" lean-forward="true" selection-start-line="71" selection-start-column="57" selection-end-line="71" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/config/SecurityConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/model/Product.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/repository/ShippingRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/repository/OrderRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/service/OrderService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/service/ShippingService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -172,7 +178,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/amazon-restApi" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -185,18 +191,19 @@
         <option value="$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/model/Shipping.java" />
         <option value="$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/model/Order.java" />
         <option value="$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/service/OrderService.java" />
-        <option value="$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/controller/RestController.java" />
         <option value="$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/model/User.java" />
-        <option value="$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/LoginMicroserviceApplication.java" />
         <option value="$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/repository/UserRepository.java" />
         <option value="$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/service/LoginService.java" />
-        <option value="$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/controller/UserController.java" />
         <option value="$PROJECT_DIR$/productRestAPI/src/main/java/no/oslomet/product/service/ProductService.java" />
         <option value="$PROJECT_DIR$/productRestAPI/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/productRestAPI/src/main/java/no/oslomet/product/model/Product.java" />
         <option value="$PROJECT_DIR$/productRestAPI/src/main/java/no/oslomet/product/ProductApplication.java" />
         <option value="$PROJECT_DIR$/productRestAPI/src/main/java/no/oslomet/product/controller/RestController.java" />
         <option value="$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/config/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/controller/RestController.java" />
+        <option value="$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/LoginMicroserviceApplication.java" />
+        <option value="$PROJECT_DIR$/readMe.md" />
       </list>
     </option>
   </component>
@@ -222,10 +229,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1837" />
+    <option name="x" value="1779" />
     <option name="y" value="23" />
-    <option name="width" value="1592" />
-    <option name="height" value="1027" />
+    <option name="width" value="1906" />
+    <option name="height" value="1011" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -239,124 +246,47 @@
           <expand>
             <path>
               <item name="Final-project-amazon-clone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="amazon-restApi" type="462c0819:PsiDirectoryNode" />
+              <item name="productRestAPI" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Final-project-amazon-clone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="amazon-restApi" type="462c0819:PsiDirectoryNode" />
+              <item name="productRestAPI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Final-project-amazon-clone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="amazon-restApi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Final-project-amazon-clone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="amazon-restApi" type="462c0819:PsiDirectoryNode" />
+              <item name="productRestAPI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Final-project-amazon-clone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="amazon-restApi" type="462c0819:PsiDirectoryNode" />
+              <item name="productRestAPI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="amazon" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Final-project-amazon-clone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="amazon-restApi" type="462c0819:PsiDirectoryNode" />
+              <item name="productRestAPI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Final-project-amazon-clone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="productRestAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Final-project-amazon-clone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="amazon-restApi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Final-project-amazon-clone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="amazon-restApi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Final-project-amazon-clone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="amazon-restApi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Final-project-amazon-clone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="login-microservice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Final-project-amazon-clone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="login-microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Final-project-amazon-clone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="login-microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Final-project-amazon-clone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="login-microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Final-project-amazon-clone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="login-microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="loginmicroservice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Final-project-amazon-clone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="login-microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="loginmicroservice" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Final-project-amazon-clone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="login-microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="loginmicroservice" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Final-project-amazon-clone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="login-microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="productRestAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="uploads" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -382,7 +312,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557149030096" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557175601250" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -396,6 +326,7 @@
       <recent name="https://github.com/Gnusifus/Kulturhus.git" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/productRestAPI/src/main" />
       <recent name="$PROJECT_DIR$/productRestAPI" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -415,7 +346,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.LoginMicroserviceApplication">
+  <component name="RunManager" selected="Spring Boot.ProductApplication">
     <configuration name="AmazonRestApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="amazon" />
       <extension name="coverage">
@@ -462,8 +393,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.LoginMicroserviceApplication" />
         <item itemvalue="Spring Boot.ProductApplication" />
+        <item itemvalue="Spring Boot.LoginMicroserviceApplication" />
         <item itemvalue="Spring Boot.AmazonRestApiApplication" />
       </list>
     </recent_temporary>
@@ -480,7 +411,7 @@
       <updated>1555588012583</updated>
       <workItem from="1555588016859" duration="32723000" />
       <workItem from="1556696634675" duration="7768000" />
-      <workItem from="1556731879067" duration="36507000" />
+      <workItem from="1556731879067" duration="43588000" />
     </task>
     <task id="LOCAL-00001" summary="All project is made in one head project, now im developing the frontend&#10;by using Angular js">
       <created>1555867188867</created>
@@ -503,17 +434,24 @@
       <option name="project" value="LOCAL" />
       <updated>1556968180462</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="All project is made in one head project, now im developing the frontend&#10;by using Angular js">
+      <created>1557149050381</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557149050381</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76998000" />
+    <option name="totallyTimeSpent" value="84079000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1837" y="23" width="1592" height="1027" extended-state="0" />
+    <frame x="98" y="39" width="1906" height="1011" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22387096" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18615879" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -523,14 +461,14 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36791444" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3743199" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="TypeScript" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32861805" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32941177" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
@@ -588,13 +526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/ServletInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="https://github.com/Gnusifus/Kulturhus.git">
       <provider selected="true" editor-type-id="httpFileEditor" />
     </entry>
@@ -612,47 +543,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/config/CustomBasicAuthenticationEntryPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/repository/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/AmazonRestApiApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#393#394#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/service/LoginService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -661,27 +551,6 @@
             <element signature="e#1657#1658#0" expanded="true" />
             <element signature="e#1716#1717#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/model/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/model/Shipping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
@@ -749,13 +618,6 @@
     <entry file="file://$PROJECT_DIR$/productRestAPI/ali.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/productRestAPI/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/productRestAPI/src/main/java/no/oslomet/product/ProductApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
@@ -769,67 +631,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/productRestAPI/src/main/java/no/oslomet/product/controller/RestController.java">
+    <entry file="file://$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/config/CustomBasicAuthenticationEntryPoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="93" column="5" lean-forward="true" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#864#865#0" expanded="true" />
-            <element signature="e#922#923#0" expanded="true" />
-            <element signature="e#996#997#0" expanded="true" />
-            <element signature="e#1050#1051#0" expanded="true" />
-            <element signature="e#1144#1145#0" expanded="true" />
-            <element signature="e#1200#1201#0" expanded="true" />
-            <element signature="e#1297#1298#0" expanded="true" />
-            <element signature="e#1349#1350#0" expanded="true" />
-            <element signature="e#1420#1421#0" expanded="true" />
-            <element signature="e#1470#1471#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/LoginMicroserviceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#808#809#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login-microservice/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="82" column="41" lean-forward="true" selection-start-line="82" selection-start-column="41" selection-end-line="82" selection-end-column="41" />
+        <state relative-caret-position="181">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productRestAPI/uploadsHei.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/config/SecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        <state relative-caret-position="135">
+          <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/model/Product.java">
+    <entry file="file://$PROJECT_DIR$/productRestAPI/src/main/java/no/oslomet/product/controller/RestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        <state relative-caret-position="90">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/AmazonRestApiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/service/ShippingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
@@ -847,24 +696,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/service/OrderService.java">
+    <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="390">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/service/ShippingService.java">
+    <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/model/Shipping.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="145">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/model/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/model/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/ServletInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="62" column="44" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/java/no/oslomet/amazon/controller/RestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="71" column="57" lean-forward="true" selection-start-line="71" selection-start-column="57" selection-end-line="71" selection-end-column="57" />
+        <state relative-caret-position="330">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login-microservice/src/main/java/no/oslomet/loginmicroservice/LoginMicroserviceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon-restApi/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon-restApi/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login-microservice/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login-microservice/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productRestAPI/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productRestAPI/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="12" selection-start-column="12" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
