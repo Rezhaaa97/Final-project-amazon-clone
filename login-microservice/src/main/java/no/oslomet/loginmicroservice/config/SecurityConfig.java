@@ -53,7 +53,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
         http.headers().frameOptions().disable();
         http.cors().and()
                 .authorizeRequests()
-                .antMatchers("/","/updateUser/**", "/signup","/overviewOfUsers","/changePW/**", "/h2-console/**").permitAll()
+                .antMatchers("/users/**","/updateUser/**", "/signup","/overviewOfUsers","/changePW/**", "/h2-console/**").permitAll()
                 .antMatchers(HttpMethod.POST, "/signup").permitAll()
                 .antMatchers(HttpMethod.OPTIONS, "/**").permitAll()
                 .anyRequest().authenticated()
